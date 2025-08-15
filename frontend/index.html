@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title> The DASH </title>
+    <link rel="icon" type="image/svg+xml" href="Images/DBicon.svg">
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <h1>Dashboard</h1>
+    <div class="dash-board">
+        
+        <div class="widget" id="timer-widget">
+                <p id="countdown-label">Loading Event...</p>
+            <div class="time-display">
+             <time id="countdown-timer">--:--:--</time>
+            </div>
+         </div>
+        
+        <div class="widget">
+            <h3>Current Task</h3>
+            <div id="current-task-display">
+                <p id="current-task-name">--</p>
+                 <p id="current-task-timer" class="time-display">--:--</p>
+            </div>
+        </div>
+
+       <div class="widget">
+    <h3 id="task-widget-title">Tasks</h3>
+    
+    <table id="sheets-data-table"></table>
+
+    <div id="todo-list-container" class="hidden">
+        <div class="todo-form">
+            <input type="text" id="todo-input" placeholder="Add a new task...">
+            <button id="add-task-btn">Add</button>
+        </div>
+        <ul id="todo-list">
+            </ul>
+    </div>
+</div>
+</div>
+
+    </div>
+    <script src="script.js"></script>
+   <audio id="ding-sound" src="audio/ding.mp3" preload="auto"></audio>
+    <script src="script.js"></script>
+</body>
+
+</html>

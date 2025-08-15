@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 210 297"
+   height="297mm"
+   width="210mm">
+  <title
+     id="title8562">DashBoard Icon</title>
+  <defs
+     id="defs2" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>DashBoard Icon</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1">
+    <g
+       style="fill:#000000"
+       transform="matrix(1.2712481,0,0,1.2712481,-33.457355,-34.641452)"
+       id="g8608">
+      <g
+         id="g3721"
+         transform="matrix(2.1875208,0,0,2.1875208,-99.798384,-65.553516)"
+         style="fill:#000000" />
+      <g
+         transform="translate(-3.1587617)"
+         id="g8628">
+        <g
+           transform="matrix(2.1875208,0,0,2.1875208,-99.798384,-65.553516)"
+           style="fill:#333333"
+           id="g8544">
+          <g
+             style="fill:#333333"
+             id="g8540">
+            <path
+               id="rect3717"
+               transform="matrix(0.26458333,0,0,0.26458333,-1.2339071e-5,0.82022468)"
+               d="m 354.79297,204.34961 c -5.8896,0 -6.02734,5.78674 -6.02735,10.19336 v 133.9082 c 10e-6,6.43568 3.83809,11.61719 10.27377,11.61719 33.43058,0 87.71548,0.0546 119.17957,0.0546 11.79814,0 11.7659,-0.0382 11.7659,-5.37101 0,-148.40993 -60.54931,-150.40234 -135.19189,-150.40234 z"
+               style="fill:#333333;stroke-width:0.99999994" />
+          </g>
+        </g>
+        <rect
+           transform="matrix(2.1875208,0,0,2.1875208,-99.798384,-65.553516)"
+           rx="1.3833779"
+           ry="1.3833779"
+           style="fill:#1a1a1a;stroke:none;stroke-width:0.22328579"
+           y="54.511292"
+           x="67.977287"
+           height="58.321407"
+           width="21.109776"
+           id="rect7692" />
+        <g
+           style="fill:#1a1a1a"
+           transform="matrix(2.1875208,0,0,-2.1875208,-99.798384,359.23149)"
+           id="g8560">
+          <g
+             style="fill:#1a1a1a"
+             id="g8558">
+            <path
+               style="fill:#1a1a1a;stroke-width:0.25860831"
+               d="m 93.872293,54.887725 c -1.691886,0 -1.594734,1.462704 -1.594736,2.576558 v 33.847746 c 2e-6,1.626736 1.015494,2.936457 2.718268,2.936457 8.845175,0 23.208055,0.0138 31.532925,0.0138 3.12159,0 3.11306,-0.0097 3.11306,-1.357621 0,-37.513323 -16.02033,-38.016941 -35.769517,-38.01694 z"
+               id="path8556" />
+          </g>
+        </g>
+        <g
+           style="fill:#1a1a1a"
+           id="g8554"
+           transform="matrix(2.1875376,0,0,-2.1875208,-99.799528,358.47815)">
+          <g
+             style="fill:#1a1a1a"
+             id="g8550">
+            <g
+               style="fill:#1a1a1a"
+               id="g8548" />
+          </g>
+          <rect
+             id="rect8552"
+             width="21.109776"
+             height="23.854433"
+             x="67.977287"
+             y="54.511292"
+             style="fill:#1a1a1a;stroke:none;stroke-width:0.14280114"
+             ry="0.60518414"
+             rx="1.0508852" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
